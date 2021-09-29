@@ -4,7 +4,7 @@ dill==0.2.9
 future==0.17.1
 idna==2.8
 marisa-trie==0.7.5
-nltk==3.4
+nltk==3.6.3
 numpy==1.16.2
 pandas==0.24.2
 pythainlp==1.7.4
