@@ -5,7 +5,7 @@ future==0.17.1
 idna==2.8
 marisa-trie==0.7.5
 nltk==3.4
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 pythainlp==1.7.4
 python-dateutil==2.8.0
